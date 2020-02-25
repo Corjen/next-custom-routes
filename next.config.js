@@ -1,5 +1,5 @@
 module.exports = {
-  // target: "serverless",
+  target: "serverless",
   // Disables auto-resolving urls based on file path, e.g.
   // in this example URL /test won't resolve to the test page,
   // but /en/test or /nl/test will
